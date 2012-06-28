@@ -10,7 +10,7 @@
  * separate ways on the screen.  
  */
 
-size(200, 200);
+size(600, 600);
 
 float[] coswave = new float[width];
 
