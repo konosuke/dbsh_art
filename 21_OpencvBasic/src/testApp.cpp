@@ -3,13 +3,13 @@
 void testApp::setup(){
 	ofSetFrameRate(60);
 	
-	#ifdef _USE_LIVE_VIDEO
+#ifdef _USE_LIVE_VIDEO
 	vidGrabber.setVerbose(true);
 	vidGrabber.initGrabber(320,240);
-	#else
+#else
 	vidPlayer.loadMovie("fingers.mov");
 	vidPlayer.play();
-	#endif
+#endif
 	
     colorImg.allocate(320,240);
 	grayImage.allocate(320,240);
