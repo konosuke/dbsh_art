@@ -323,11 +323,11 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>6649DFC515AE070600173420</string>
+										<string>66962DE315AEC7F90004296B</string>
 										<key>history</key>
 										<array>
 											<string>6649DFC315AE070600173420</string>
-											<string>6649DFC415AE070600173420</string>
+											<string>6649DFC515AE070600173420</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -339,14 +339,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {803, 394}}</string>
+								<string>{{0, 0}, {803, 387}}</string>
 								<key>RubberWindowFrame</key>
 								<string>118 137 1011 628 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>394pt</string>
+							<string>387pt</string>
 						</dict>
 						<dict>
 							<key>ContentConfiguration</key>
@@ -359,14 +359,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 399}, {803, 188}}</string>
+								<string>{{0, 392}, {803, 195}}</string>
 								<key>RubberWindowFrame</key>
 								<string>118 137 1011 628 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
 							<key>Proportion</key>
-							<string>188pt</string>
+							<string>195pt</string>
 						</dict>
 					</array>
 					<key>Proportion</key>
@@ -385,9 +385,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>6649DFAC15ADF8FF00173420</string>
+				<string>66962DE415AEC7F90004296B</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>6649DFAD15ADF8FF00173420</string>
+				<string>66962DE515AEC7F90004296B</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -525,10 +525,6 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>6649DFB715ADF8FF00173420</string>
-		<string>6649DFB815ADF8FF00173420</string>
-		<string>1C78EAAD065D492600B07095</string>
-		<string>1CD10A99069EF8BA00B06720</string>
 		<string>66714CDF15A58AD10078B63D</string>
 		<string>/Users/ishikurokounosuke/of_preRelease_v007_osx/apps/dbsh_art/21_OpencvBasic/OpencvBasic.xcodeproj</string>
 	</array>
@@ -610,7 +606,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>66714CDF15A58AD10078B63D</string>
-				<string>6649DFAE15ADF8FF00173420</string>
+				<string>66962DE615AEC7F90004296B</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>
